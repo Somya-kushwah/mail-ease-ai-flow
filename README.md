@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/1984a35a-9233-47d5-9e02-c294b9a4b366) and start prompting.
+Simply visit the [Lovable Project]([https://lovable.dev/projects/1984a35a-9233-47d5-9e02-c294b9a4b366](https://preview--mail-ease-ai-flow.lovable.app/auth/login)) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
